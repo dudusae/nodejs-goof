@@ -15,6 +15,11 @@
     "test": "snyk test"
   },
   "dependencies": {
+    "handlebars": "4.0.11",
+    "axios": "0.18.0",
+    "js-yaml": "3.13.0",
+    "minimist": "0.0.8",
+    "shelljs": "0.3.0",
     "adm-zip": "0.4.7",
     "body-parser": "1.9.0",
     "cfenv": "^1.0.4",
